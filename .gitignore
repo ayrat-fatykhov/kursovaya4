@@ -1,0 +1,7 @@
+# Файлы IDE Pycharm
+.idea
+
+__pycache__
+
+# Виртуальное окружение
+.venv
